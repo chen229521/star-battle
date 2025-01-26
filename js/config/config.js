@@ -81,7 +81,7 @@ const fps = 60;
     config.fuelConfig = {
         fuelLoseSpeed: -1,
         fuelRaiseSpeed: 15,
-        fuelMax: 30,
+        fuelMax: 3000,
         beingHit : -15,
     }
     config.scoreConfig = {
